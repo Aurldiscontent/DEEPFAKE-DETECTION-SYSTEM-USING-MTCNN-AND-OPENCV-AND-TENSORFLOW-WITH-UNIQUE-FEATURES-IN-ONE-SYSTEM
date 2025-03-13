@@ -17,7 +17,7 @@ Online Image Detection:
 
 Online Video Detection:
 
-Live Webcam Detection:                                                                                                                                                                                              link to my Web App: https://media-fraud-alert.lovable.app/
+Live Webcam Detection:                                                                                                                                                                                                                        link to my Web App: https://media-fraud-alert-07.lovable.app/
 
 Contributing
 If you wish to contribute to this project, feel free to fork the repository and submit a pull request with your changes. Please ensure that you follow the coding guidelines and test thoroughly before making contributions.
