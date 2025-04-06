@@ -8,7 +8,7 @@ Key Features
 Multi-Source Deepfake Detection: Supports online images, online videos, and live webcam feeds.
 Face Detection with MTCNN: Accurate face detection to analyze content for deepfake artefacts.
 Deepfake Classification: Simulated deepfake detection through random confidence values.
-Real-time Webcam Detection: Detects faces and processes webcam video in real time.
+Real-time Webcam Detection: Detects faces and processes webcam video in real-time.
 User-friendly Interface: A simple text-based interface for seamless user interaction.
 
 Output Examples
@@ -17,7 +17,9 @@ Online Image Detection:
 
 Online Video Detection:
 
-Live Webcam Detection:                                                                                                                                                                                                                        link to my Web App: https://media-fraud-alert-07.lovable.app/
+Live Webcam Detection:  
+
+link to my Web App: https://media-fraud-alert-07.lovable.app/
 
 Contributing
 If you wish to contribute to this project, feel free to fork the repository and submit a pull request with your changes. Please ensure that you follow the coding guidelines and test thoroughly before making contributions.
